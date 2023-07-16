@@ -7,7 +7,7 @@ The goal of this tutorial is introduce and showcase methods for a more efficient
 * Multitask Learning
 * Self-supervised Learning
 
-In this tutorial we make heavy use of ben-ge dataset, which is available [here](https://github.com/HSG-AIML/ben-ge).
+In this tutorial we make heavy use of ben-ge dataset, which is available [here](https://github.com/HSG-AIML/ben-ge). The ben-ge paper is available on [arxiv](https://arxiv.org/abs/2307.01741).
 
 ## Content
 
